@@ -3,14 +3,23 @@
     padding: 0px;
 }
 
+
+
 div{
-    background: red;
+    /* background: red; */
+    /* height: auto;
+    width: auto; */
+  
+}
+
+.bg{ background-color: blueviolet;
+    background-image: url("thierry-meier-PKEPAeMBOIU-unsplash.jpg");
 }
 
 h3{
 
     
-    color: blue
+    color: blue;
 }
 
 p{
